@@ -37,4 +37,4 @@ The other is a dropout. Dropout will randomly change some parameters stretching 
 Finally, I want to analyze why the accuracy can not be further improved. I think it is because the model is too simple. If you want to further improve, you should change to a more complex model on the premise of solving the overfitting problem.
 <br>
 # Video Link:
-
+https://github.com/RayWangRui/Coding3_ML/blob/main/ML%20Final%20video.mp4
